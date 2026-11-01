@@ -15,14 +15,15 @@ Kho lưu trữ này chứa mã nguồn và tài liệu phục vụ cho việc ô
 ---
 
 ## 📚 Nguồn tài liệu & Trân trọng cảm ơn
-* **Giảng viên hướng dẫn:** Thầy **Đỗ Đức Tân**
+Nguồn tài liệu được lấy từ:
+* **Giảng viên:** Thầy **Đỗ Đức Tân**
 * **Đơn vị:** Trường Đại học Công Thương Thành phố Hồ Chí Minh (HUIT).
 * Toàn bộ nội dung lý thuyết, học liệu và định hướng phân tích được tham khảo và tiếp thu từ các bài giảng chuyên môn của Thầy.
 
 ---
 
 ## ⚠️ Lưu ý quan trọng
-> Website và mã nguồn ôn tập này do sinh viên tự nghiên cứu và thực hiện trong quá trình học tập, do đó khó tránh khỏi những thiếu sót nhất định. 
+> Website và mã nguồn ôn tập này do sinh viên tự làm và thực hiện trong quá trình học tập, có nhờ công cụ AI hỗ trợ do đó khó tránh khỏi những thiếu sót nhất định. 
 > 
 > Mọi ý kiến đóng góp, phát hiện lỗi hoặc thắc mắc, xin vui lòng liên hệ qua email: **lyhuuphuoc15062007@gmail.com**. 
 
