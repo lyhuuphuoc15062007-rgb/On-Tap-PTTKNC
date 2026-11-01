@@ -1,4 +1,13 @@
 # 📊 Ôn Tập Phân Tích Thống Kê Nhiều Chiều
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
+[![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)]()
+[![Institution](https://img.shields.io/badge/HUIT-Data%20Science-orange?style=for-the-badge)]()
+
+</div>
+
 ---
 
 ## 📖 Giới thiệu dự án
@@ -7,24 +16,28 @@ Kho lưu trữ này chứa mã nguồn và tài liệu phục vụ cho việc ô
 ---
 
 ## 👥 Thông tin tác giả & Phát triển
-* **Họ và tên:** Lý Hữu Phước
-* **MSSV:** 204525016
-* **Chuyên ngành:** Khoa học Dữ liệu
-* **Trường:** Trường Đại học Công Thương Thành phố Hồ Chí Minh (HUIT)
+- **Họ và tên:** Lý Hữu Phước
+- **MSSV:** 204525016
+- **Chuyên ngành:** Khoa học Dữ liệu
+- **Trường:** Trường Đại học Công Thương Thành phố Hồ Chí Minh (HUIT)
 
 ---
 
 ## 📚 Nguồn tài liệu & Trân trọng cảm ơn
 Nguồn tài liệu được lấy từ:
-* **Giảng viên:** Thầy **Đỗ Đức Tân**
-* **Đơn vị:** Trường Đại học Công Thương Thành phố Hồ Chí Minh (HUIT).
-* Toàn bộ nội dung lý thuyết, học liệu và định hướng phân tích được tham khảo và tiếp thu từ các bài giảng chuyên môn của Thầy.
+- **Giảng viên:** Thầy **Đỗ Đức Tân**
+- **Đơn vị:** Trường Đại học Công Thương Thành phố Hồ Chí Minh (HUIT).
+- Toàn bộ nội dung lý thuyết, học liệu và định hướng phân tích được tham khảo và tiếp thu từ các bài giảng chuyên môn của Thầy.
 
 ---
 
 ## ⚠️ Lưu ý quan trọng
 > Website và mã nguồn ôn tập này do sinh viên tự làm và thực hiện trong quá trình học tập, có nhờ công cụ AI hỗ trợ do đó khó tránh khỏi những thiếu sót nhất định. 
 > 
-> Mọi ý kiến đóng góp, phát hiện lỗi hoặc thắc mắc, xin vui lòng liên hệ qua email: **lyhuuphuoc15062007@gmail.com**. 
-
-Rất mong nhận được sự thông cảm và góp ý từ mọi người để nội dung ngày càng hoàn thiện hơn!
+> Mọi ý kiến đóng góp, phát hiện lỗi hoặc thắc mắc, xin vui lòng liên hệ qua link Google Form:
+> [👉 Gửi góp ý tại đây](https://docs.google.com/forms/d/e/1FAIpQLSd9t6bVSs836usDScZnZvXSKv1z3hQmNvLw8YvKGRHVW6cSiw/viewform?usp=publish-editor)
+> 
+> Hoặc qua email: **lyhuuphuoc15062007@gmail.com**
+> 
+> Rất mong nhận được sự thông cảm và góp ý từ mọi người để nội dung ngày càng hoàn thiện hơn!
+> **Cảm ơn mọi người đã đưa nhận xét của mọi người!**
