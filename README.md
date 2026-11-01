@@ -1,13 +1,4 @@
 # 📊 Ôn Tập Phân Tích Thống Kê Nhiều Chiều
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
-[![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)]()
-[![Institution](https://img.shields.io/badge/HUIT-Data%20Science-orange?style=for-the-badge)]()
-
-</div>
-
 ---
 
 ## 📖 Giới thiệu dự án
